@@ -1,6 +1,6 @@
 chao
-<<<<<<< HEAD
 dat
+nam
 biti
 dev bao
 tronghoa
@@ -8,6 +8,5 @@ biti
 Duc
 dieuai
 dev Minh
-=======
 nam
->>>>>>> nam-chinh sua
+
