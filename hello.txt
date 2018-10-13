@@ -1,4 +1,5 @@
 chao
+<<<<<<< HEAD
 dat
 biti
 dev bao
@@ -7,3 +8,6 @@ biti
 Duc
 dieuai
 dev Minh
+=======
+nam
+>>>>>>> nam-chinh sua
